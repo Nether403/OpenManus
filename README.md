@@ -15,6 +15,23 @@ English | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](READM
 
 Manus is incredible, but OpenManus can achieve any idea without an *Invite Code* 🛫!
 
+## 🌐 Web Demo
+
+A web-based demonstration interface is now available to showcase OpenManus capabilities in browser environments. This interface provides:
+
+- **Interactive Agent Chat**: Experience simulated agent interactions
+- **Tool Demonstrations**: See how different tools work together
+- **Architecture Overview**: Understanding the multi-agent system
+- **Configuration Guide**: Setup instructions for different environments
+
+To run the web demo:
+```bash
+npm install
+npm run dev
+```
+
+**Note**: The web demo simulates agent behavior for demonstration purposes. For full functionality, use the Python implementation with proper API keys and dependencies.
+
 Our team members [@Xinbin Liang](https://github.com/mannaandpoem) and [@Jinyu Xiang](https://github.com/XiangJinyu) (core authors), along with [@Zhaoyang Yu](https://github.com/MoshiQAQ), [@Jiayi Zhang](https://github.com/didiforgithub), and [@Sirui Hong](https://github.com/stellaHSR), we are from [@MetaGPT](https://github.com/geekan/MetaGPT). The prototype is launched within 3 hours and we are keeping building!
 
 It's a simple implementation, so we welcome any suggestions, contributions, and feedback!

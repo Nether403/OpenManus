@@ -1,0 +1,18 @@
+{
+  "name": "openmanus-web-demo",
+  "version": "1.0.0",
+  "description": "Web-based demonstration of OpenManus AI agent capabilities",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "marked": "^12.0.0",
+    "highlight.js": "^11.9.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

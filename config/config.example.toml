@@ -2,7 +2,7 @@
 [llm]
 model = "gemini-2.5-pro"                                              # The LLM model to use
 base_url = "https://generativelanguage.googleapis.com/v1beta/openai/"   # API endpoint URL
-api_key = "AIzaSyCyXRFMkNFPY01keDhEu731uA_4TS9wrjw"                                                # Your API key
+api_key = ""                                                # Your API key
 max_tokens = 8096                                                       # Maximum number of tokens in the response
 temperature = 0.1                                                   # Controls randomness
 
@@ -36,7 +36,7 @@ temperature = 0.1                                                   # Controls r
 [llm.vision]
 model = "gemini-2.5-flash-exp"                                      # The vision model to use
 base_url = "https://generativelanguage.googleapis.com/v1beta/openai/"  # API endpoint URL for vision model
-api_key = "AIzaSyCyXRFMkNFPY01keDhEu731uA_4TS9wrjw"                                               # Your API key for vision model
+api_key = ""                                               # Your API key for vision model
 max_tokens = 8192                                                      # Maximum number of tokens in the response
 temperature = 0.0                                                      # Controls randomness for vision model
 
